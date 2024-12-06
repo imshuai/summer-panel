@@ -1,5 +1,5 @@
 name: Bug Report | گزارش مشکل
-description: Report a bug encountered while using BPB Panel
+description: Report a bug encountered while using Palmate Panel
 body:
     - type: markdown
       attributes:
